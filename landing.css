@@ -1,0 +1,115 @@
+body{
+    background-color: rgb(76, 76, 253);
+    margin: 0;
+    margin-bottom: 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.div{
+    height: 100px;
+}
+.navbar{
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+}
+.logo
+{
+    font-size: 35px;
+    font-weight: 600;
+    color: white;
+}
+li{
+    display: inline-block;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 150px;
+    color: white;
+
+
+}
+.start{
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 10px;
+    width: 150px;
+    background-color: blue;
+    color: white;
+}
+.book{
+    background-color: rgb(20, 200, 20);
+    border-radius: 10px;
+    padding: 10px;
+    width: 150px;
+}
+.text{
+    color: white;
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 40%;
+  padding: 20px;
+  margin-left: 20px;
+}
+.text h1{
+  font-size: 40px;
+  margin-bottom: 10px;
+  justify-content: left;
+}
+.text p{
+font-size: large;
+}
+.button{
+    margin-bottom: 10px;
+    background-color: rgb(20, 201, 20);
+  font-size: 20px;
+  justify-content: left;
+  margin-left: 35px;
+  border-radius: 5px;
+  padding: 10px;
+}
+iframe{
+    margin-left: 750px;
+    margin-bottom: 20px;
+    flex: auto;
+    align-self: center;
+    flex-direction: row;
+    position: relative;
+}
+.footer{
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 300px;
+    justify-items: center;
+    padding-bottom: 0%;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-bottom: 0;
+}
+.bla{
+    margin-bottom: 150px;
+    justify-content: center;
+    align-self: center;
+}
+.bold{
+    font-weight: bolder;
+    color: rgb(9, 9, 105);
+    margin-bottom: 0px;
+}
+.face{
+    background-color: rgb(7, 7, 7);
+    font-size: xx-large;
+    padding: 10px;
+    margin-bottom: px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
