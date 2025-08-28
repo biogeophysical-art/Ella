@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    margin-top: 100px;
+}
+img{
+    border-radius: 700px;
+    height: 150px;
+    width: 150px;
+    margin-top: 70px;
+}
+button{
+    height: 40px;
+    width: 270px;
+    border-radius: 10px;
+    background-color: rgb(7, 191, 191);
+    margin-top: 30px;
+    justify-items: center;
+    border: 0;
+    color: white;
+}
+.you{
+    margin-top: 50px;
+}
+.you1{
+    margin-top: -10px;
+}
