@@ -1,0 +1,14 @@
+body{
+     background: linear-gradient(violet,pink,lavender);height: 200vh;
+    text-align: center;
+}
+h1{
+    font-size: xx-large;
+    font-size: 60px;
+    color: rgb(204, 0, 255);
+    font-family: cursive;
+}
+.la{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

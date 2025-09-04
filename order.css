@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background: linear-gradient(rgb(210, 129, 129),rgb(200, 167, 106),rgb(186, 186, 108),rgb(117, 183, 117),rgb(117, 117, 170),rgb(156, 115, 186),rgb(196, 109, 196));height: 100vh;
+}
+h1{
+    font-size: 50px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+input{
+    width: 300px;
+    height: 40px;
+    margin-top: 20px;
+    border-radius: 10px; 
+}
+button{
+    height: 40px;
+    width: 150px;
+    margin-top: 50px;
+    color: white;
+    background-color: black;
+    font-size: large;
+    border-radius: 30px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,8 @@
+body{
+    background: linear-gradient(rgb(220, 141, 155),rgb(101, 101, 205));height: 100vh;
+    margin-top: 150px;
+    margin-left: 380px;
+    margin-right: 110px;
+    font-size: 50px;
+    font-family: cursive;
+}
