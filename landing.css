@@ -110,7 +110,11 @@ font-family: cursive;
 }
 
 .img{
+    display: flex;
+    flex-direction: column;
     margin-top: 400px;
+    justify-content: center;
+    align-items: center;
 }
 img{
     width: 300px;
@@ -120,13 +124,16 @@ img{
 .part{
     display: flex;
     flex-wrap: wrap;
-    gap: 300px;
+    gap: 100px;
+    /* margin-left: 100px; */
+    
 }
 .part2{
     display: flex;
     flex-wrap: wrap;
-    gap: 300px;
-    margin-top: 20px; 
+    gap: 100px;
+    margin-top: 50px; 
+    margin-left: 7px;
 }
 button{
     width: 130px;
